@@ -4,9 +4,24 @@
       "type": "main-page-alternate",
       "settings": {
       }
+    },
+    "6f41497b-ff9c-4f4e-ae05-7f42e2051f45": {
+      "type": "video",
+      "settings": {
+        "heading": "Video",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "6f41497b-ff9c-4f4e-ae05-7f42e2051f45"
   ]
 }
