@@ -76,11 +76,6 @@
         "padding_bottom": 12
       }
     },
-    "newsletter": {
-      "type": "newsletter",
-      "settings": {
-      }
-    },
     "related-products": {
       "type": "related-products",
       "settings": {
@@ -101,8 +96,7 @@
     }
   },
   "order": [
-    "related-products",
-    "newsletter",
-    "main"
+    "main",
+    "related-products"
   ]
 }
