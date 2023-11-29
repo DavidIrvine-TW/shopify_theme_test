@@ -101,8 +101,8 @@
     }
   },
   "order": [
+    "related-products",
     "newsletter",
-    "main",
-    "related-products"
+    "main"
   ]
 }
