@@ -76,11 +76,6 @@
         "padding_bottom": 12
       }
     },
-    "image-banner": {
-      "type": "image-banner",
-      "settings": {
-      }
-    },
     "related-products": {
       "type": "related-products",
       "settings": {
@@ -102,7 +97,6 @@
   },
   "order": [
     "main",
-    "related-products",
-    "image-banner"
+    "related-products"
   ]
 }
