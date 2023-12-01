@@ -4,15 +4,9 @@
       "type": "main-page-alternate",
       "settings": {
       }
-    },
-    "16645ef7-840c-468f-8188-6dde44708e4e": {
-      "type": "team-members",
-      "settings": {
-      }
     }
   },
   "order": [
-    "main",
-    "16645ef7-840c-468f-8188-6dde44708e4e"
+    "main"
   ]
 }
