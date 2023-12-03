@@ -11,9 +11,20 @@
         src="{{ block.settings.image |img_url }}"   />
       
     </div>
-    
+    <p>TEXT ABOUT PHOTOT</p>
   </div>
 </div>
+
+
+<style>
+  .customContainer {
+    
+  }
+</style>
+
+
+
+
 
 {% schema %}
   {
@@ -26,6 +37,17 @@
         "default" : " My Custom Heading"
     }
     ],
+    "blocks" : [{
+      "type" : "column",
+      "name" : "slide",
+      "settings" : [{
+        "type": "text",
+        "id": "title",
+        "label" : "TITLE"
+        
+      }]
+      
+    }],
     "presets": [{
       "name": "teamOne"
     }]
