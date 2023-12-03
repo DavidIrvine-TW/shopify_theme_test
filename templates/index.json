@@ -2,6 +2,31 @@
   "sections": {
     "7de05826-6fac-4086-9cbc-6120d7ab2264": {
       "type": "team-members",
+      "blocks": {
+        "2bb1ffb1-31ac-4ea5-8843-4225fa4156e9": {
+          "type": "column",
+          "settings": {
+            "title": "hgfxxsxd"
+          }
+        },
+        "697ae3ab-2093-4c89-945a-6f0a1d67f836": {
+          "type": "column",
+          "settings": {
+            "title": "xcvxcvxcv"
+          }
+        },
+        "e2d6a81a-4cf9-4fd9-8751-be9d7a9460a1": {
+          "type": "column",
+          "settings": {
+            "title": "bxcbxcb"
+          }
+        }
+      },
+      "block_order": [
+        "2bb1ffb1-31ac-4ea5-8843-4225fa4156e9",
+        "697ae3ab-2093-4c89-945a-6f0a1d67f836",
+        "e2d6a81a-4cf9-4fd9-8751-be9d7a9460a1"
+      ],
       "settings": {
         "heading": "BANANA MAN"
       }
