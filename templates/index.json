@@ -1,5 +1,10 @@
 {
   "sections": {
+    "7de05826-6fac-4086-9cbc-6120d7ab2264": {
+      "type": "team-members",
+      "settings": {
+      }
+    },
     "image_banner": {
       "type": "image-banner",
       "blocks": {
@@ -167,6 +172,7 @@
     }
   },
   "order": [
+    "7de05826-6fac-4086-9cbc-6120d7ab2264",
     "image_banner",
     "featured_collection",
     "6f0fcf17-eab1-421b-b28d-a66b4e1e8a38",
