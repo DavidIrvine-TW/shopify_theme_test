@@ -1,4 +1,24 @@
-<h1>{{ section.settings.heading }}</h1>
+<h1 class="slick__carousel--header">{{ section.settings.heading }}</h1>
+
+    <div class="slick__carousel--container">
+    {%- for block in section.blocks -%}
+      <div class="slick__carousel--exterior">
+        <div class="slick__carousel--interior">
+        
+          <div class="slick__carousel--quote">
+          <p >
+            {{ block.settings.title }}
+          </p>
+          </div>
+          <img
+            class="slick__carousel--portrait"
+            src="{{ block.settings.image | img_url: 'master'}}"
+          />
+          <h4 class="slick__carousel--name">{{ block.settings.description }}</h4>
+        </div>
+      </div>
+    {% endfor %}
+    </div>
 
 
 {% schema %}
