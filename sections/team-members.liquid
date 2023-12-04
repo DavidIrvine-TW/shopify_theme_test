@@ -24,41 +24,44 @@
 </style>
 
 {% schema %}
-  {
+{
     "name": "Team ONE",
-    "tag" : "section",
-    "limit" : 1,
+    "tag": "section",
+    "limit": 1,
     "settings": [
-      {
-      "type": "text",
-      "id" : "heading",
-      "label": "Heading",
-      "default" : "My Custom Heading"
-    }
+        {
+            "type": "text",
+            "id": "heading",
+            "label": "Heading",
+            "default": "My Custom Heading"
+        }
     ],
     "max_blocks": 5,
-    "blocks" : [{
-      "type" : "lv426",
-      "name" : "slide",
-      	"settings": [
-         {
-           "type": "image_picker",
-           "id": "image",
-           "label": "Select Image"
-         },
-          {
-  "type": "textarea",
-  "id": "home_welcome_message",
-  "label": "Welcome message",
-  "default": "Welcome to my shop!"
+    "blocks": [
+        {
+            "type": "lv426",
+            "name": "slide",
+            "settings": [
+                {
+                    "type": "image_picker",
+                    "id": "image",
+                    "label": "Select Image"
+                },
+                {
+                    "type": "textarea",
+                    "id": "home_welcome_message",
+                    "label": "Welcome message",
+                    "default": "Welcome to my shop!"
+                }
+            ]
+        }
+    ],
+    "presets": [
+        {
+            "name": "teamOne"
+        }
+    ]
 }
-       ]
-
-    }],
-    "presets": [{
-      "name": "teamOne"
-    }]
-  }
 {% endschema %}
 
 {% stylesheet %}
