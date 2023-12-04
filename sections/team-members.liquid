@@ -8,7 +8,7 @@
       <div class="custom--container__image">
         <img
           width="100px" height="100px"
-          src="{{ block.settings.image |image_url }}"
+          src="{{ block.settings.image | image_url : 'master' }}"
         >
       </div>
       <p>TEXT ABOUT PHOTO</p>
