@@ -1,24 +1,5 @@
 {
   "sections": {
-    "9741b980-af50-4a33-a8ce-0b7519a914af": {
-      "type": "slick-slider",
-      "blocks": {
-        "85edfffb-42ff-4597-99d0-560016d730de": {
-          "type": "column",
-          "settings": {
-            "title": "titsd",
-            "image": "shopify:\/\/shop_images\/sample-normal-wax.png",
-            "description": "banana"
-          }
-        }
-      },
-      "block_order": [
-        "85edfffb-42ff-4597-99d0-560016d730de"
-      ],
-      "settings": {
-        "heading": "SOME TEXT"
-      }
-    },
     "image_banner": {
       "type": "image-banner",
       "blocks": {
@@ -186,7 +167,6 @@
     }
   },
   "order": [
-    "9741b980-af50-4a33-a8ce-0b7519a914af",
     "image_banner",
     "featured_collection",
     "6f0fcf17-eab1-421b-b28d-a66b4e1e8a38",
