@@ -5,28 +5,7 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
-        "announcement-bar-0": {
-          "type": "announcement",
-          "settings": {
-            "text": "Welcome to our store",
-            "link": ""
-          }
-        },
-        "4d5a50fe-198f-4aab-a341-a857855a46db": {
-          "type": "announcement",
-          "settings": {
-            "text": "Welcome to our store",
-            "link": ""
-          }
-        },
-        "9f5f9bfd-613c-443a-96a7-8995fc7d5650": {
-          "type": "announcement",
-          "settings": {
-            "text": "Welcome to our store",
-            "link": ""
-          }
-        },
-        "f86246c6-52ab-4662-ac9a-c688b7a9780e": {
+        "76aaf03d-b793-45a7-952f-7ef24929b2c7": {
           "type": "announcement",
           "settings": {
             "text": "Welcome to our store",
@@ -35,10 +14,7 @@
         }
       },
       "block_order": [
-        "announcement-bar-0",
-        "4d5a50fe-198f-4aab-a341-a857855a46db",
-        "9f5f9bfd-613c-443a-96a7-8995fc7d5650",
-        "f86246c6-52ab-4662-ac9a-c688b7a9780e"
+        "76aaf03d-b793-45a7-952f-7ef24929b2c7"
       ],
       "settings": {
         "color_scheme": "background-1",
