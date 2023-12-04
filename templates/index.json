@@ -8,10 +8,17 @@
           "settings": {
             "title": "banana"
           }
+        },
+        "4b00a078-cdfd-462b-a3c6-4203221165a7": {
+          "type": "column",
+          "settings": {
+            "title": "Add a titleasdfasdfas"
+          }
         }
       },
       "block_order": [
-        "df0b6b4b-f945-4d0e-9a70-d4e38fbd14d0"
+        "df0b6b4b-f945-4d0e-9a70-d4e38fbd14d0",
+        "4b00a078-cdfd-462b-a3c6-4203221165a7"
       ],
       "settings": {
         "heading": "BANANA MAN"
