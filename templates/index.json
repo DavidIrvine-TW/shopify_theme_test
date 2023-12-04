@@ -6,13 +6,13 @@
         "6bd1e39f-d261-44c8-b047-907a9600619c": {
           "type": "lv426",
           "settings": {
-            "home_welcome_message": "shopify:\/\/shop_images\/sample-normal-wax.png"
+            "image": "shopify:\/\/shop_images\/Main_9129b69a-0c7b-4f66-b6cf-c4222f18028a.jpg"
           }
         },
         "364ac638-1375-4a6b-be73-9c11ba78b808": {
           "type": "lv426",
           "settings": {
-            "home_welcome_message": "shopify:\/\/shop_images\/sample-normal-wax.png"
+            "image": "shopify:\/\/shop_images\/Main_b13ad453-477c-4ed1-9b43-81f3345adfd6.jpg"
           }
         }
       },
