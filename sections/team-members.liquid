@@ -2,32 +2,26 @@
 
 <div class="custom--container">
   {% for block in section.blocks %}
-  <div class="custom--container__slide">
-    
-    <h2 class="custom--container__title">{{ block.settings.title }}</h2>
-    
-    <div class="cusomt--container__image">
-      
-      <img width="" height=""
-        src="{{ block.settings.image |img_url }}"   />
-      
+    <div class="custom--container__slide">
+      <h2 class="custom--container__title">{{ block.settings.title }}</h2>
+
+      <div class="cusomt--container__image">
+        <img
+          width=""
+          height=""
+          src="{{ block.settings.image |img_url }}"
+        >
+      </div>
+      <p>TEXT ABOUT PHOTO</p>
     </div>
-    <p>TEXT ABOUT PHOTO</p>
-  </div>
   {% endfor %}
 </div>
 
-
-
 <style>
   .customContainer {
-    
+
   }
 </style>
-
-
-
-
 
 {% schema %}
   {
@@ -57,15 +51,9 @@
   "id": "home_welcome_message",
   "label": "Welcome message",
   "default": "Welcome to my shop!"
-}, 
-          {
-  "type": "article",
-  "id": "article",
-  "label": "Article"
 }
-
        ]
-      
+
     }],
     "presets": [{
       "name": "teamOne"
