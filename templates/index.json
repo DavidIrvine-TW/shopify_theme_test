@@ -1,36 +1,5 @@
 {
   "sections": {
-    "7de05826-6fac-4086-9cbc-6120d7ab2264": {
-      "type": "team-members",
-      "blocks": {
-        "a6bc4d20-b573-4fdb-bf46-d8c19b3b5818": {
-          "type": "image_picker",
-          "settings": {
-            "title": "asgasdgsadg"
-          }
-        },
-        "d77ce255-cf73-4fa3-a611-1995dd698eb2": {
-          "type": "image_picker",
-          "settings": {
-            "title": "Add a title"
-          }
-        },
-        "807219dc-1c09-4059-9ba1-96b89764bef9": {
-          "type": "image_picker",
-          "settings": {
-            "title": "Add a title"
-          }
-        }
-      },
-      "block_order": [
-        "a6bc4d20-b573-4fdb-bf46-d8c19b3b5818",
-        "d77ce255-cf73-4fa3-a611-1995dd698eb2",
-        "807219dc-1c09-4059-9ba1-96b89764bef9"
-      ],
-      "settings": {
-        "heading": "BANANA MAN"
-      }
-    },
     "image_banner": {
       "type": "image-banner",
       "blocks": {
@@ -198,7 +167,6 @@
     }
   },
   "order": [
-    "7de05826-6fac-4086-9cbc-6120d7ab2264",
     "image_banner",
     "featured_collection",
     "6f0fcf17-eab1-421b-b28d-a66b4e1e8a38",
