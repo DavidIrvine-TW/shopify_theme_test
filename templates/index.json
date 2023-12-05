@@ -18,11 +18,20 @@
             "image": "shopify:\/\/shop_images\/Main_b13ad453-477c-4ed1-9b43-81f3345adfd6.jpg",
             "description": "ndgoindgndisofngdg"
           }
+        },
+        "a6bb53fb-eac4-4f5f-b958-cc3652b3dcc2": {
+          "type": "column",
+          "settings": {
+            "title": "Title",
+            "image": "shopify:\/\/shop_images\/theme_cover_image.jpg",
+            "description": "Description"
+          }
         }
       },
       "block_order": [
         "e2803ab6-f8ab-42e4-aad1-f52db1575a3d",
-        "acc9bda2-ca54-416b-a952-627543b2ad52"
+        "acc9bda2-ca54-416b-a952-627543b2ad52",
+        "a6bb53fb-eac4-4f5f-b958-cc3652b3dcc2"
       ],
       "settings": {
         "heading": "A Custom Heading"
