@@ -280,7 +280,7 @@
         document.documentElement.classList.add('shopify-design-mode');
       }
     </script>
-    {% comment %} <link rel="stylesheet" href="{{ "style.css" | asset_url }}"/> TAILWIND{% endcomment %}
+    <link rel="stylesheet" href="{{ "style.css" | asset_url }}">
   </head>
 
   <body class="gradient{% if settings.animations_hover_elements != 'none' %} animate--hover-{{ settings.animations_hover_elements }}{% endif %}">
